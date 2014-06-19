@@ -175,8 +175,8 @@ h3.title-text-hint{
 
 .twelve-point-star-container{
       position: absolute;
-      -webkit-transform:rotate(45deg);
-      transform:rotate(45deg);
+      -webkit-transform:rotate(15deg);
+      transform:rotate(15deg);
       top: 220px;
       right: 50px;
 }
@@ -193,14 +193,16 @@ h3.title-text-hint{
 .twelve-point-star {
     height: 60px;
     width: 60px;
-    background: red;
+    background: #FF0066;
     position: absolute;
     z-index: 0;
+    -webkit-box-shadow: inset 0 -1px 2px rgba(69,187,39, .2), 0 3px 5px rgba(0,0,0, .3);
+    -moz-box-shadow: inset 0 -1px 2px rgba(69,187,39, .2), 0 3px 5px rgba(0,0,0, .3);
 }
 .twelve-point-star:before {
     height: 60px;
     width: 60px;
-    background: red;
+    background: #FF0066;
     content:"";
     position: absolute;
     /* Rotate */
@@ -213,7 +215,7 @@ h3.title-text-hint{
 .twelve-point-star:after {
     height: 60px;
     width: 60px;
-    background: red;
+    background: #FF0066;
     content:"";
     position: absolute;
     /* Rotate */

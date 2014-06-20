@@ -1,5 +1,5 @@
-var GOOGLE_FORM_URL = "https://docs.google.com/forms/d/1HPm-UI88r7280fPP3NrTDtRd7B3qnD7bdg5SaGMhxy4/formResponse";
-var GOOGLE_FORM_INPUT_NAME = "entry.1736818995";
+var GOOGLE_FORM_URL = "https://docs.google.com/forms/d/1ALMyFSUVhwvHEtscS63-PemL68Nv5AeHSvyVCAOi3Ec/formResponse";
+var GOOGLE_FORM_INPUT_NAME = "entry.598210959";
 
 $(function(){
 

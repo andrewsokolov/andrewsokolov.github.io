@@ -1,109 +1,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 <channel>
-<title>Sparkle Test App Changelog</title>
-<link>http://andymatuschak.org/files/sparkletestcast.xml</link>
+<title>MailBar App Changelog</title>
+<link>http://mailbarapp.com/update/cast.xml</link>
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 
 <item>
-    <title>Version 2.0</title>
+    <title>Version 0.7.1</title>
     <description>
         New features
     </description>
     <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-2.0.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-2.0.zip" sparkle:version="2.0" sparkle:shortVersionString="2.0" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFl6WyiLqQdSFZfUXr3d6BDBnHCaAhQ5z1kUDGIBRATfayLv98ReEbGwCA=="/>
-</item>
-
-<item>
-    <title>Version 1.9.9</title>
-    <description>
-        New features
-    </description>
-    <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-1.9.9.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.9.9.zip" sparkle:version="1.9.9" sparkle:shortVersionString="1.9.9" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFCul9+cLng637XQWxM3XeZCb77/dAhQoogZk5PWpR3BRiKcFt1WiPShQug=="/>
-</item>
-
-<item>
-    <title>Version 1.9.8</title>
-    <description>
-        Load images from AddressBook via message sender email
-    </description>
-    <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-1.9.8.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.9.8.zip" sparkle:version="1.9.8" sparkle:shortVersionString="1.9.8" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFHpY+gnrVCRrtr7ff3XvvZV8Y0k6AhRTxVmx7RtL8BdpEG3wXLsX0yBm1w=="/>
-</item>
-
-<item>
-    <title>Version 1.9.7</title>
-    <description>
-        New icon and fix last bugs from Kseniya
-    </description>
-    <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-1.9.7.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.9.7.zip" sparkle:version="1.9.7" sparkle:shortVersionString="1.9.7" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFEwVUFhshIrYgblc5W0+bWAPFz2RAhRc3sOrJ7sQz3RqkNhSQZzQAj5biQ=="/>
-</item>
-
-<item>
-    <title>Version 1.9.4</title>
-    <description>
-        Fix last bugs from Kseniya
-    </description>
-    <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-1.9.4.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.9.4.zip" sparkle:version="1.9.4" sparkle:shortVersionString="1.9.4" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCFPOhOoIPLVGxQSCUwNiF3wdapxgIUUt82U0deuLVAMXHQ2XL9FtSwdhw="/>
-</item>
-
-<item>
-    <title>Version 1.9.1</title>
-    <description>
-        New sender and reciever buttons
-    </description>
-    <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-1.9.1.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.9.1.zip" sparkle:version="1.9.1" sparkle:shortVersionString="1.9.1" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFHCUfrWVsC7Y5OAa6P57240bKmnhAhRuBWTX4y8gtdEYQ6Pwu8NNh99Nsw=="/>
-</item>
-
-
-<item>
-    <title>Version 1.6</title>
-    <description>
-        New SuperMail version! (fix double click)
-    </description>
-    <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-1.6.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.6.zip" sparkle:version="1.6" sparkle:shortVersionString="1.6" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFBIMa963bLz48NXkpwiDgmheP1PyAhQDmaP1UbJ9ybH27ByWWb34UK9qIg=="/>
-</item>
-
-<item>
-    <title>Version 1.5</title>
-    <description>
-        New SuperMail version!
-    </description>
-    <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes/notes-1.5.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.5.zip" sparkle:version="1.5" sparkle:shortVersionString="1.5" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFDJiG9FGMPUF0AbniG/isMjrbFsdAhRe54KayvksZfSCLyw153+d+xckSQ=="/>
-</item>
-
-<item>
-<title>Version 2.0 (2 bugs fixed; 3 new features)</title>
-<description>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo. Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc. Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium. Integer auctor sodales leo vel aliquam. Nullam nisi justo, molestie ut volutpat faucibus, convallis vitae dolor. Nam elementum, augue eu auctor imperdiet, ante arcu luctus turpis, quis vulputate est tortor non mauris. Fusce ut viverra ante. Mauris nec ullamcorper ante.
-</description>
-<pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-<sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes.html</sparkle:releaseNotesLink>
-<enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.4.zip" sparkle:version="1.4" sparkle:shortVersionString="1.4" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFSDoHfw/ti+cL9CQZVWjfPfChOLAhQeYNWxmTRB5m5SbbgxpHErcAkyPA=="/>
-</item>
-
-<item>
-<title>Version 2.0 (2 bugs fixed; 3 new features)</title>
-<description>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo. Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc. Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium. Integer auctor sodales leo vel aliquam. Nullam nisi justo, molestie ut volutpat faucibus, convallis vitae dolor. Nam elementum, augue eu auctor imperdiet, ante arcu luctus turpis, quis vulputate est tortor non mauris. Fusce ut viverra ante. Mauris nec ullamcorper ante.
-</description>
-<pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-<sparkle:releaseNotesLink>https://dl.dropboxusercontent.com/u/818944/SuperMail/notes.html</sparkle:releaseNotesLink>
-<enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-1.3.6.zip" sparkle:version="1.3.6" sparkle:shortVersionString="1.3.6" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFEOG2mwSJoqJ8GdrR9IOGryA+NuXAhQFs7f9HHMtU2IrV/GzPTQEJHiunQ=="/>
+    <sparkle:releaseNotesLink>http://mailbarapp.com/release/notes/0.7/notes.html</sparkle:releaseNotesLink>
+    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-2.0.zip" sparkle:version="2.0" sparkle:shortVersionString="2.0" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFGPnPRsAKgNujwpIgFBp+hJWthQAhQcwYZ8KA+J2KxHu3YzpCo004nStw=="/>
 </item>
 
 </channel>

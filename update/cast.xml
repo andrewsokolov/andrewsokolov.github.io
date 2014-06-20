@@ -11,8 +11,8 @@
         New features
     </description>
     <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
-    <sparkle:releaseNotesLink>http://mailbarapp.com/release/notes/0.7/notes.html</sparkle:releaseNotesLink>
-    <enclosure url="https://dl.dropboxusercontent.com/u/818944/SuperMail/release-2.0.zip" sparkle:version="2.0" sparkle:shortVersionString="2.0" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFGPnPRsAKgNujwpIgFBp+hJWthQAhQcwYZ8KA+J2KxHu3YzpCo004nStw=="/>
+    <sparkle:releaseNotesLink>http://mailbarapp.com/update/versions/0.7.1/notes.html</sparkle:releaseNotesLink>
+    <enclosure url="http://mailbarapp.com/update/versions/0.7.1/MailBar-0.7.1.zip" sparkle:version="2.0" sparkle:shortVersionString="2.0" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFGPnPRsAKgNujwpIgFBp+hJWthQAhQcwYZ8KA+J2KxHu3YzpCo004nStw=="/>
 </item>
 
 </channel>

@@ -5,7 +5,7 @@
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 
-<item>
+<!-- <item>
     <title>Version 0.7.2</title>
     <description>
         New features
@@ -13,7 +13,7 @@
     <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
     <sparkle:releaseNotesLink>http://mailbarapp.com/update/versions/0.7.2/notes.html</sparkle:releaseNotesLink>
     <enclosure url="http://mailbarapp.com/update/versions/0.7.2/MailBar-0.7.2.zip" sparkle:version="0.7.2" sparkle:shortVersionString="0.7.2" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFDld6paPhl9NprsF2y23C8uIjZ/ZAhQ1NXZc9kc0t5q8REKTZ9rnLxBgYQ=="/>
-</item>
+</item> -->
 
 <item>
     <title>Version 0.7.1</title>
@@ -22,7 +22,7 @@
     </description>
     <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
     <sparkle:releaseNotesLink>http://mailbarapp.com/update/versions/0.7.1/notes.html</sparkle:releaseNotesLink>
-    <enclosure url="http://mailbarapp.com/update/versions/0.7.1/MailBar-0.7.1.zip" sparkle:version="0.7.1" sparkle:shortVersionString="0.7.1" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFwRsE3HEeVEWHD8KFGBoMR8fC1rAhRzdgoyaYqOF9A6WnNx7B3Bx1Aw1A=="/>
+    <enclosure url="http://mailbarapp.com/update/versions/0.7.1/MailBar-0.7.1.zip" sparkle:version="0.7.1" sparkle:shortVersionString="0.7.1" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFCTmYEFRm5F4CltwQov2BSfdqhtXAhQv4I9LSLitr2hwB+fORyNsYUdwjw=="/>
 </item>
 
 </channel>

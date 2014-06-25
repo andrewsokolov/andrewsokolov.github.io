@@ -22,7 +22,7 @@
     </description>
     <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
     <sparkle:releaseNotesLink>http://mailbarapp.com/update/versions/0.7.1/notes.html</sparkle:releaseNotesLink>
-    <enclosure url="http://mailbarapp.com/update/versions/0.7.1/MailBar-0.7.1.zip" sparkle:version="0.7.1" sparkle:shortVersionString="0.7.1" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFCrS9tiGS+pNc6x+QH7esFR18063AhRSN/Z6JzV+R2LUw1NA+fj7hd4tWQ=="/>
+    <enclosure url="http://mailbarapp.com/update/versions/0.7.1/MailBar-0.7.1.zip" sparkle:version="0.7.1" sparkle:shortVersionString="0.7.1" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFE0q2bgxbZOqf+0A6psNnRy7yXauAhRg2Cv21ynTxbWG79FzGWIRWBrBgg=="/>
 </item>
 
 </channel>

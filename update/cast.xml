@@ -5,15 +5,15 @@
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 
-<!-- <item>
+<item>
     <title>Version 0.7.2</title>
     <description>
         New features
     </description>
     <pubDate>Wed, 29 May 2014 10:20:11 +0000</pubDate>
     <sparkle:releaseNotesLink>http://mailbarapp.com/update/versions/0.7.2/notes.html</sparkle:releaseNotesLink>
-    <enclosure url="http://mailbarapp.com/update/versions/0.7.2/MailBar-0.7.2.zip" sparkle:version="0.7.2" sparkle:shortVersionString="0.7.2" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFDld6paPhl9NprsF2y23C8uIjZ/ZAhQ1NXZc9kc0t5q8REKTZ9rnLxBgYQ=="/>
-</item> -->
+    <enclosure url="http://mailbarapp.com/update/versions/0.7.2/MailBar-0.7.2.zip" sparkle:version="0.7.2" sparkle:shortVersionString="0.7.2" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MC0CFH/njAMPUeE5sPVeQTW3zFl/SH8CAhUAhU1ktRyksrc/JNXB2AzvwXq0P+Y="/>
+</item>
 
 <item>
     <title>Version 0.7.1</title>

@@ -27,6 +27,11 @@ $(function(){
 
     }).bind($('.download-btn')), 5000);
 
+    $('#download-btn').on('click', function(){
+
+        ga('send', 'event', 'download', 'button');
+    });
+
     $('#newsletter-form').submit(function(e){
 
         e.preventDefault();
@@ -41,6 +46,9 @@ $(function(){
             $(input).val('');
             $(form).addClass('hidden');
             $(thank_you).removeClass('hidden');
+
+            ga('send', 'event', 'subscribe', 'button');
+
         }.bind(null, input, $(this), $('.thank-you-text'));
 
         var data = {};

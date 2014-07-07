@@ -240,3 +240,12 @@ h3.thank-you-text {
     font-size: 26px;
 }
 
+.mac-update-block{
+    clear: both;
+    margin: 0px auto;
+    width: 125px;
+    height:51px;
+
+    height: 55px;
+    padding-top: 70px;
+}

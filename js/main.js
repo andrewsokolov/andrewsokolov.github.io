@@ -29,7 +29,9 @@ $(function(){
 
     $('#download-btn').on('click', function(){
 
-        ga('send', 'event', 'download', 'button');
+        ga('send', 'event', 'download', 'button', {
+            version:$('#download-btn').attr('version')
+        });
     });
 
     $('#newsletter-form').submit(function(e){
@@ -47,7 +49,9 @@ $(function(){
             $(form).addClass('hidden');
             $(thank_you).removeClass('hidden');
 
-            ga('send', 'event', 'subscribe', 'button');
+            ga('send', 'event', 'subscribe', 'button', {
+                version:$('#download-btn').attr('version')
+            });
 
         }.bind(null, input, $(this), $('.thank-you-text'));
 

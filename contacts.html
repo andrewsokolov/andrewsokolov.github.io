@@ -9,7 +9,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
     <!--<meta name="robots" content="noindex, nofollow">-->
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css?v2">
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic' rel='stylesheet' type='text/css'>
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
@@ -29,9 +29,9 @@
 <div class="wrapper">
     <div class="main">
         <div class="menu">
-            <a href="/contacts">Contacts</a>
+            <a href="/contacts" class="selected">Contacts</a>
             <a href="/changelist">Changelist</a>
-            <a href="/" class="selected">About</a>
+            <a href="/">About</a>
         </div>
         <div class="download-block">
             <a href="/" id="logo"><img width="150" height="150" src="images/logo.png" alt="MailBar. Best Mail.app friend."></a>
@@ -40,21 +40,31 @@
             <a href="/update/versions/0.7.5/MailBar-0.7.5.dmg" version="0.7.5" id="download-btn" class="download-btn"><span class="title">Download</span><span class="info">OS X 10.9+, version: 0.7.5</span></a>
         </div>
         <div class="mac-update-block">
-        <script type='text/javascript' src='http://www.macupdate.com/developers/badge/51517'></script>
+            <script type='text/javascript' src='http://www.macupdate.com/developers/badge/51517'></script>
         </div>
         <div class="twelve-point-star-container">
             <div class="twelve-point-star"></div>
             <span>Beta</span>
         </div>
-        <div class="screenshots">
-            <div class="screenshot-container">
-                <img alt="Message list view support filters, conversation, unread status, color flags, attachments" src="images/message_list_view_screenshot.png">
-                <span class="screenshot-description">Message list view support filters, conversation, unread status, color flags, attachments</span>
+        <div class="contact">
+            <div class="contact-text-container">
+                <div class="contact-text">If you have any question, please contact us via emails or fill the form</div>
+
+                <ul class="contact-emails">
+                    <li>
+                        <a href="mailto:contact@mailbarapp.com">contact@mailbarapp.com</a>
+                    </li>
+                    <li>
+                        <a href="mailto:support@mailbarapp.com">support@mailbarapp.com</a>
+                    </li>
+                </ul>
+                <h3 class="contact-thanks-text hidden">We receive you message, thanks!</h3>
             </div>
-            <div class="screenshot-container">
-                <img alt="Message content view" src="images/message_content_view_screenshot.png">
-                <span class="screenshot-description">Message content view</span>
-            </div>
+            <form id="contact-form">
+                <input class="email-input" required="required" type="email" placeholder="Enter email">
+                <textarea class="text-input"  placeholder="Enter message"></textarea>
+                <button type="submit">Send</button>
+            </form>
         </div>
         <div class="footer-push"></div>
     </div>
@@ -70,11 +80,11 @@
         </form>
         <h3 class="thank-you-text hidden">Thank you for follow us!</h3>
     </div>
-    <div class="footer-push-small"></div>
+    <div class="footer-push-smaller"></div>
 </div>
 
 <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/main.js?v2"></script>
 
 </body>
 </html>

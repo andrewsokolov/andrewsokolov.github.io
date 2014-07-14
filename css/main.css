@@ -260,6 +260,8 @@ h3.thank-you-text {
     float: left;
 }
 
+.main .c
+
 .main .screenshots .screenshot-container > img{
     padding-bottom: 7px;
 }
@@ -279,4 +281,35 @@ h3.thank-you-text {
     text-align: center;
     padding: 0px 50px;
     width: 300px;
+}
+
+.main .changelist{
+    display: block;
+    position: relative;
+    margin: 40px auto;
+    width: 384px;
+}
+
+.main .changelist .changelist-group{
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+.main .changelist .changelist-group{
+    color: #4d4d4d;
+}
+
+.main .changelist .changelist-group .changelist-group-title{
+    color: #333;
+}
+
+.main .changelist .changelist-group .changelist-group-title .changelist-group-title-date{
+    float: right;
+    color: #666;
+}
+
+.main .changelist .changelist-group .changelist-group-list-item{
+    font-size: 14px;
+    margin: 2px 0px;
 }

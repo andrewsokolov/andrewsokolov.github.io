@@ -100,7 +100,7 @@ $(function(){
                 $(thank_you).addClass('hidden');
             }, 5000);
 
-            ga('send', 'event', 'subscribe', 'button', {
+            ga('send', 'event', 'contactForm', 'button', {
                 version:$('#download-btn').attr('version')
             });
 

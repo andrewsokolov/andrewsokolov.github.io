@@ -16,31 +16,36 @@ input, a, img, button{
     min-height: 100%;
     height: auto !important;
     height: 100%;
-    margin: 0 0 -160px 0; /* отрицательный нижний отступ на высоту футера */
+    margin: 0 0 -200px 0; /* отрицательный нижний отступ на высоту футера */
     padding: 0;
 }
-.footer-push, .footer {
-    height: 160px;
+.footer-push, .footer, .footer-push-small {
+    height: 200px;
     margin: 0;
     padding: 0;
 }
 
+.footer-push-small{
+    height: 40px;
+}
+
 body {
     font-family: 'PT Sans', sans-serif;
-
     background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#CCFFCC, #99CCCC); /* Standard syntax */
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 div.main{
     margin: 0px auto;
     width: 960px;
-    padding-top: 200px;
+    padding-top: 50px;
     position: relative;
 }
-
 
 h1.title-text{
     float: left;
@@ -94,7 +99,7 @@ h3.title-text-hint{
     /*text-shadow: 1px -1px 1px rgba(0,0,0, .5);*/
     clear: both;
     margin: 0px auto;
-    top: 30px;
+    top: 10px;
 }
 
 .email-input-block input{
@@ -177,7 +182,7 @@ h3.title-text-hint{
       position: absolute;
       -webkit-transform:rotate(15deg);
       transform:rotate(15deg);
-      top: 220px;
+      top: 70px;
       right: 50px;
 }
 
@@ -245,7 +250,33 @@ h3.thank-you-text {
     margin: 0px auto;
     width: 125px;
     height:51px;
-
     height: 55px;
-    padding-top: 70px;
+    padding-top: 40px;
+}
+
+.main .screenshots .screenshot-container {
+    width: 400px;
+    padding: 20px 40px 40px 40px;
+    float: left;
+}
+
+.main .screenshots .screenshot-container > img{
+    padding-bottom: 7px;
+}
+
+.main .screenshots .screenshot-container > img,
+.main .screenshots .screenshot-container > .screenshot-description {
+    float: left;
+    position: relative;
+}
+
+.main .screenshots .screenshot-container .screenshot-description {
+    margin: 0px 0px 8px 0px;
+    width: 100%;
+    float: left;
+    font-style: italic;
+    color: #333333;
+    text-align: center;
+    padding: 0px 50px;
+    width: 300px;
 }

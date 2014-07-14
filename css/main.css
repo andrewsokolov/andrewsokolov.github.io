@@ -10,6 +10,7 @@ html, body {
 
 input, a, img, button{
     outline: none;
+    text-decoration: none;
 }
 
 .wrapper {
@@ -318,4 +319,23 @@ h3.thank-you-text {
 .main .changelist .changelist-group .changelist-group-list-item{
     font-size: 14px;
     margin: 2px 0px;
+}
+
+.main .menu {
+    position: absolute;
+    top: 15px;
+    right: 40px;
+}
+
+.main .menu > a {
+    float: right;
+    margin-left: 20px;
+    color: #777777;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.main .menu > a.selected {
+    color: #4d4d4d;
+    text-decoration: underline;
 }

@@ -6,6 +6,16 @@
 <language>en</language>
 
 <item>
+    <title>Version 0.7.6</title>
+    <description>
+        New features
+    </description>
+    <pubDate>Sut, 17 Jul 2014 12:20:11 +0000</pubDate>
+    <sparkle:releaseNotesLink>http://mailbarapp.com/update/versions/0.7.6/notes.html</sparkle:releaseNotesLink>
+    <enclosure url="http://mailbarapp.com/update/versions/0.7.6/MailBar-0.7.6.zip" sparkle:version="0.7.6" sparkle:shortVersionString="0.7.6" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFCk7R3N1v4GNENYGuZvSZW7jxw12AhR/iLnBF7KUx/O0xzty9qeD76PTmw=="/>
+</item>
+
+<item>
     <title>Version 0.7.5</title>
     <description>
         New features

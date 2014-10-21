@@ -192,18 +192,51 @@ h3.title-text-hint{
       right: 50px;
 }
 
+.twelve-point-star-container.retina-support{
+	top: 150px;
+	right: 54px;
+}
+
+.twelve-point-star-container.yosemite-support{
+	top: 230px;
+	right: 46px;
+}
+
 .twelve-point-star-container span{
     z-index: 1;
     position: relative;
     color: #fff;
-    font-size: 24px;
-    margin: 15px 0px 0px 7px;
+    font-size: 22px;
+    margin: 11px 0px 0px 5px;
     float: left;
+    text-align: center;
+}
+
+.twelve-point-star-container.retina-support span{
+	font-size: 13px;
+	margin: 10px 0px 0px 7px;
+}
+
+.twelve-point-star-container.yosemite-support span{
+	font-size: 13px;
+	margin: 11px 0px 0px 0px;
+}
+
+.twelve-point-star-container.retina-support .twelve-point-star,
+.twelve-point-star-container.retina-support .twelve-point-star:after,
+.twelve-point-star-container.retina-support .twelve-point-star:before{
+	background: #1DACD6;
+}
+
+.twelve-point-star-container.yosemite-support .twelve-point-star,
+.twelve-point-star-container.yosemite-support .twelve-point-star:after,
+.twelve-point-star-container.yosemite-support .twelve-point-star:before{
+	background: #17806D;
 }
 
 .twelve-point-star {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background: #FF0066;
     position: absolute;
     z-index: 0;
@@ -211,8 +244,8 @@ h3.title-text-hint{
     -moz-box-shadow: inset 0 -1px 2px rgba(69,187,39, .2), 0 3px 5px rgba(0,0,0, .3);
 }
 .twelve-point-star:before {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background: #FF0066;
     content:"";
     position: absolute;
@@ -224,8 +257,8 @@ h3.title-text-hint{
     transform: rotate(30deg);
 }
 .twelve-point-star:after {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background: #FF0066;
     content:"";
     position: absolute;
@@ -313,6 +346,11 @@ h3.thank-you-text {
 .main .changelist .changelist-group .changelist-group-title .changelist-group-title-date{
     float: right;
     color: #666;
+}
+.main .changelist .changelist-group .changelist-group-list-title{
+    color: #4d4d4d;
+    font-size: 13px;
+    padding: 3px 0px 0px 15px;
 }
 
 .main .changelist .changelist-group .changelist-group-list-item{

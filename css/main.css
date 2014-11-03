@@ -450,3 +450,13 @@ h3.thank-you-text {
     font-size: 24px;
     padding-bottom: 10px;
 }
+
+.banners-footer-block{
+    position: relative;
+    clear: both;
+    margin: 20px auto;
+    top: 0px;
+    display: block;
+    width: 420px;
+    padding-left: 220px;
+}

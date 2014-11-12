@@ -29,7 +29,14 @@ $(function(){
             $(this).removeClass('snake-animation');
         }.bind(this), 2000)
 
-    }).bind($('.download-btn')), 5000);
+    }).bind($('.buy-btn')), 5000);
+
+    $('#buy-btn').on('click', function(){
+
+        ga('send', 'event', 'buy', 'button', {
+            version:$('#download-btn').attr('version')
+        });
+    });
 
     $('#download-btn').on('click', function(){
 

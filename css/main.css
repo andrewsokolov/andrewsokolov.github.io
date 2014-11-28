@@ -114,7 +114,7 @@ h3.title-text-hint{
     background:     -ms-linear-gradient(top, rgba(255, 130, 67, .9) 0%, rgba(255, 117, 56, 1) 100%);
     background:      -o-linear-gradient(top, rgba(255, 130, 67, .9) 0%, rgba(255, 117, 56, 1) 100%);
     background: 		linear-gradient(top, rgba(255, 130, 67, .9) 0%, rgba(255, 117, 56, 1) 100%);
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     width: 184px;
 }
 
@@ -312,9 +312,8 @@ h3.thank-you-text {
     clear: both;
     margin: 0px auto;
     width: 125px;
-    height:51px;
     height: 55px;
-    padding-top: 40px;
+    padding-top: 25px;
 }
 
 .main .screenshots .screenshot-container {
@@ -458,7 +457,7 @@ h3.thank-you-text {
 
 .main .contact .contact-text-container .contact-emails{
     float: left;
-    margin: 10px 0px 20px 0px;
+    margin: 10px 0px 0px 0px;
 }
 
 .main .contact .contact-text-container .contact-emails a{
@@ -479,9 +478,35 @@ h3.thank-you-text {
 .banners-footer-block{
     position: relative;
     clear: both;
-    margin: 20px auto;
+    margin: 10px auto;
     top: 0px;
     display: block;
     width: 420px;
     padding-left: 220px;
+}
+
+.banners-footer-block.social{
+    margin-top: 15px;
+    padding-left: 203px;
+    color: #333333;
+}
+
+.banners-footer-block.copyrights{
+    padding-left: 40px;
+    color: #333333;
+}
+
+.contact-twitter{
+    float: left;
+    margin: 10px 0px 10px 0px;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.tweet-block{
+    clear: both;
+    margin: 0px auto;
+    height: 15px;
+    width: 70px;
+    padding-top: 10px;
 }

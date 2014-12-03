@@ -318,11 +318,13 @@ h3.thank-you-text {
 
 .main .screenshots .screenshot-container {
     width: 400px;
-    padding: 20px 40px 40px 40px;
+    padding: 15px 40px 40px 40px;
     float: left;
 }
 
-.main .c
+.main .screenshots.top .screenshot-container{
+    padding-bottom: 0;
+}
 
 .main .screenshots .screenshot-container > img{
     padding-bottom: 7px;
@@ -332,6 +334,7 @@ h3.thank-you-text {
 .main .screenshots .screenshot-container > .screenshot-description {
     float: left;
     position: relative;
+    width: 400px;
 }
 
 .main .screenshots .screenshot-container .screenshot-description {
@@ -341,8 +344,9 @@ h3.thank-you-text {
     font-style: italic;
     color: #333333;
     text-align: center;
-    padding: 0px 50px;
-    width: 300px;
+    padding: 0px 35px;
+    width: 330px;
+    font-size: 0.9em;
 }
 
 .main .changelist{

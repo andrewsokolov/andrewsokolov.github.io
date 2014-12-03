@@ -218,12 +218,11 @@ h3.title-text-hint{
 }
 
 .twelve-point-star-container.retina-support{
-	top: 150px;
 	right: 54px;
 }
 
 .twelve-point-star-container.yosemite-support{
-	top: 230px;
+	top: 150px;
 	right: 46px;
 }
 

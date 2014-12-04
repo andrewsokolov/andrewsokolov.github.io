@@ -175,18 +175,31 @@ h3.title-text-hint{
 }
 
 .snake-animation {
+    -o-animation:snake 0.5s  ease-in-out infinite;
+    -moz-animation:snake 0.5s  ease-in-out infinite;
     -webkit-animation:snake 0.5s  ease-in-out infinite;
     animation: snake 0.5s  ease-in-out infinite;
 }
+
+@-moz-keyframes snake { 0% { -moz-transform: rotate(0deg); left:0px; }
+    25% { -moz-transform: rotate(2deg); left:5px; }
+    75% { -moz-transform: rotate(-2deg); left:-5px; }
+    100% { -moz-transform: rotate(0deg);  left:0px; }}
 
 @-webkit-keyframes snake { 0% { -webkit-transform: rotate(0deg); left:0px; }
     25% { -webkit-transform: rotate(2deg); left:5px; }
     75% { -webkit-transform: rotate(-2deg); left:-5px; }
     100% { -webkit-transform: rotate(0deg);  left:0px; }}
 
+@-o-keyframes snake { 0% { -webkit-transform: rotate(0deg); left:0px; }
+    25% { -webkit-transform: rotate(2deg); left:5px; }
+    75% { -webkit-transform: rotate(-2deg); left:-5px; }
+    100% { -webkit-transform: rotate(0deg);  left:0px; }}
 
-@keyframes snake { 50% { -webkit-transform: rotate(20deg); transform:rotate(20deg); }
-    50% { -webkit-transform: rotate(0deg); transform:rotate(0deg); } }
+@keyframes snake { 0% { -webkit-transform: rotate(0deg); transform:rotate(0deg); left:0px; }
+                   25% { -webkit-transform: rotate(2deg); transform:rotate(2deg); left:5px; }
+                   75% { -webkit-transform: rotate(-2deg); transform:rotate(-2deg); left:-5px; }
+                   100% { -webkit-transform: rotate(0deg); transform:rotate(0deg);  left:0px; }}
 
 .action-btn span.title {
     position: relative;

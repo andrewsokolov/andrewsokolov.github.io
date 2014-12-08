@@ -114,8 +114,6 @@ h3.title-text-hint{
     background:     -ms-linear-gradient(top, rgba(255, 130, 67, .9) 0%, rgba(255, 117, 56, 1) 100%);
     background:      -o-linear-gradient(top, rgba(255, 130, 67, .9) 0%, rgba(255, 117, 56, 1) 100%);
     background: 		linear-gradient(top, rgba(255, 130, 67, .9) 0%, rgba(255, 117, 56, 1) 100%);
-    margin-bottom: 15px;
-    width: 184px;
 }
 
 .action-btn.download-btn {
@@ -125,6 +123,8 @@ h3.title-text-hint{
     background:     -ms-linear-gradient(top, rgba(69,187,39, .9) 0%, rgba(0,135,55, .9) 100%);
     background:      -o-linear-gradient(top, rgba(69,187,39, .9) 0%, rgba(0,135,55, .9) 100%);
     background: 		linear-gradient(top, rgba(69,187,39, .9) 0%, rgba(0,135,55, .9) 100%);
+    margin-bottom: 15px;
+    width: 184px;
 }
 
 .email-input-block input{
@@ -525,4 +525,45 @@ h3.thank-you-text {
     height: 15px;
     width: 70px;
     padding-top: 10px;
+}
+
+.main .faq{
+    display: block;
+    position: relative;
+    margin: 30px auto;
+    margin-bottom: 30px;
+    width: 684px;
+}
+
+.main .faq .faq-group{
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+.main .faq .faq-group{
+    color: #4d4d4d;
+    border-bottom: 1px solid #7DBCAD;
+}
+
+.main .faq .faq-group.last{
+    border-bottom: none;
+}
+
+.main .faq .faq-group .faq-group-question{
+    color: #333;
+    font-size: 1.1em;
+    padding: 8px 0px 5px 0px;
+}
+
+.main .faq .faq-group .faq-group-answer{
+    color: #4d4d4d;
+    padding-bottom: 8px;
+}
+
+.main .faq .faq-group .faq-group-answer .faq-group-answer-command{
+    color: #333;
+    margin-top: 10px;
+    background-color: #7DBCAD;
+    padding: 5px 10px;
 }

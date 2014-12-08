@@ -31,9 +31,9 @@
     <div class="main">
         <div class="menu">
             <a href="/contacts">Contacts</a>
-            <a href="/faq">FAQ</a>
+            <a href="/faq" class="selected">FAQ</a>
             <a href="/changelist">Changelist</a>
-            <a href="/" class="selected">About</a>
+            <a href="/">About</a>
         </div>
         <div class="download-block">
             <a href="/" id="logo"><img width="150" height="150" src="images/logo.png" alt="MailBar. Best Mail.app friend."></a>
@@ -63,27 +63,44 @@
             <div class="twelve-point-star"></div>
             <span>Yosemite</br>ready</span>
         </div>
-        <div class="screenshots top">
-            <div class="screenshot-container">
-                <img alt="List of messages show all inbox messages in mailboxes, than configured in preferences. It allow filter them, see messages conversations, fast search, mark messages as read or junk, move messages to archive or trash, change color flag." src="images/screenshot-1.png">
-                <span class="screenshot-description">List of messages show all inbox messages in mailboxes, than configured in preferences. It allow filter them, see messages conversations, fast search, mark messages as read or junk, move messages to archive or trash, change color flag.</span>
+        <div class="faq">
+            <div class="faq-group">
+                <div class="faq-group-question">
+                    How many times I can activate my licence?
+                </div>
+                <div class="faq-group-answer">
+                    You can activate your licence 3 times and use MailBar on different devices.
+                </div>
             </div>
-            <div class="screenshot-container">
-                <img alt="You can view message body, reply or forward it, move it to archive or trash, mark as junk or change color flag, download attachments or open message in Mail.app." src="images/screenshot-2.png">
-                <span class="screenshot-description">You can view message body, reply or forward it, move it to archive or trash, mark as junk or change color flag, download attachments or open message in Mail.app.</span>
+            <div class="faq-group">
+                <div class="faq-group-question">
+                    Do I can use MailBar standalone without Mail.app?
+                </div>
+                <div class="faq-group-answer">
+                    No. MailBar working only with Mail.app.
+                </div>
             </div>
-            <div style="clear:both"></div>
-        </div>
-        <div class="screenshots">
-            <div class="screenshot-container">
-                <img alt="You can easily compose new messages, reply or forward to messages. Compose message feature have recipients autocomplete." src="images/screenshot-3.png">
-                <span class="screenshot-description">You can easily compose new messages, reply or forward to messages. Compose message feature have recipients autocomplete.</span>
+            <div class="faq-group">
+                <div class="faq-group-question">
+                    I update OS X to new version and get the message: "MailBarPlugin.mailbundle not compatible with new version of Mail.app". What I should do?
+                </div>
+                <div class="faq-group-answer">
+                    Just restart MailBar.app. If it still not work - contact us.
+                </div>
             </div>
-            <div class="screenshot-container">
-                <img alt="On preferences you can add up to 4 mailboxes and configure color, sound and active state. Also configure updates and some shortcuts." src="images/screenshot-4.png">
-                <span class="screenshot-description">On preferences you can add up to 4 mailboxes and configure color, sound and active state. Also configure updates and some shortcuts.</span>
+            <div class="faq-group last">
+                <div class="faq-group-question">
+                    How I can remove MailBar plugin for Mail.app?
+                </div>
+                <div class="faq-group-answer">
+                    Open Utility -> Terminal.app and run this command:
+                    </br>
+                    <div class="faq-group-answer-command">
+                        rm -rf  ~/Library/Mail/Bundles/MailBarPlugin.mailbundle
+                    </div>
+                </div>
             </div>
-            <div style="clear:both"></div>
+            <div class="footer-push-smaller"></div>
         </div>
         <div class="footer-push"></div>
     </div>

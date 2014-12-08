@@ -29,7 +29,7 @@ $(function(){
             $(this).removeClass('snake-animation');
         }.bind(this), 2000)
 
-    }).bind($('.buy-btn')), 5000);
+    }).bind($('.download-btn')), 4000);
 
     $('#buy-btn').on('click', function(){
 

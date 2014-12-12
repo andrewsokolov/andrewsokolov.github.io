@@ -87,7 +87,7 @@ h3.title-text-hint{
 .action-btn {
     display: block;
     position: relative;
-    width: 168px;
+    width: 176px;
     height: 50px;
     background: -webkit-linear-gradient(top, rgba(69,187,39, .9) 0%, rgba(0,135,55, .9) 100%);
     background:    -moz-linear-gradient(top, rgba(69,187,39, .9) 0%, rgba(0,135,55, .9) 100%);
@@ -124,7 +124,7 @@ h3.title-text-hint{
     background:      -o-linear-gradient(top, rgba(69,187,39, .9) 0%, rgba(0,135,55, .9) 100%);
     background: 		linear-gradient(top, rgba(69,187,39, .9) 0%, rgba(0,135,55, .9) 100%);
     margin-bottom: 15px;
-    width: 184px;
+    width: 200px;
 }
 
 .email-input-block input{

@@ -239,6 +239,11 @@ h3.title-text-hint{
 	right: 46px;
 }
 
+.twelve-point-star-container.free-trial-support{
+    top: 230px;
+    right: 48px;
+}
+
 .twelve-point-star-container span{
     z-index: 1;
     position: relative;
@@ -257,6 +262,11 @@ h3.title-text-hint{
 .twelve-point-star-container.yosemite-support span{
 	font-size: 13px;
 	margin: 11px 0px 0px 0px;
+}
+
+.twelve-point-star-container.free-trial-support span{
+    font-size: 12.5px;
+    margin: 12px 0px 0px 2px;
 }
 
 .twelve-point-star-container.retina-support .twelve-point-star,

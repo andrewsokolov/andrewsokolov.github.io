@@ -577,3 +577,74 @@ h3.thank-you-text {
     background-color: #7DBCAD;
     padding: 5px 10px;
 }
+
+.main .people-review{
+   padding-bottom: 40px;
+}
+
+.main .people-review-item{
+   width: 200px;
+   margin-right: 40px;
+   float: left;
+}
+
+.main .people-review-item .people-review-item-body{
+    padding: 15px 12px;
+    background-color: #FBFBF1;
+    width: 100%;
+    margin-bottom: 14px;
+    color: #5a6464;
+    word-wrap: break-word;
+    font-size: 14px;
+    position: relative;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.main .people-review-item .people-review-item-name{
+    margin-bottom: 10px;
+    font-style: italic;
+    font-weight: 500;
+    float: left;
+    margin-left: 3px;
+    color: #4d4d4d;
+}
+
+.main .people-review-item .people-review-item-name a{
+    color: #4d4d4d;
+}
+
+.main .people-review-item .people-review-item-name a:hover{
+    color: #000;
+}
+
+.main .people-review-item .people-review-item-date{
+    font-size: 14px;
+    color: #777;
+    float: right;
+    margin-right: -23px;
+}
+
+.main .people-review .people-review-title{
+    color: #333;
+    text-align: center;
+    font-weight: 200;
+    font-size: 31px;
+}
+
+.main .people-review-item .people-review-item-body .people-review-item-body-tringle{
+    background: url("../images/styles/review-tringle.png");
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    bottom: -12px;
+    left: 10px;
+}
+
+.main .people-review-item .people-review-item-body .people-review-item-body-more-btn{
+    color: steelblue;
+}
+.main .people-review-item .people-review-item-body .people-review-item-body-more-btn:hover{
+    color: dodgerblue;
+}

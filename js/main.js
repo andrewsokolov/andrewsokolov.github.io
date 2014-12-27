@@ -38,7 +38,9 @@ $(function(){
         });
     });
 
-    $('#download-btn').on('click', function(){
+    $('#download-btn, #download-bottom-btn').on('click', function(){
+
+        alert(1)
 
         ga('send', 'event', 'download', 'button', {
             version:$('#download-btn').attr('version')

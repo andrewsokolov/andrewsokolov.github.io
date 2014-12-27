@@ -579,7 +579,7 @@ h3.thank-you-text {
 }
 
 .main .people-review{
-   padding-bottom: 40px;
+   padding-bottom: 20px;
 }
 
 .main .people-review-item{
@@ -647,4 +647,8 @@ h3.thank-you-text {
 }
 .main .people-review-item .people-review-item-body .people-review-item-body-more-btn:hover{
     color: dodgerblue;
+}
+
+.download-block-bottom{
+    padding-bottom: 40px;
 }

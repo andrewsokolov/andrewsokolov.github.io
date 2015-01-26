@@ -26,7 +26,7 @@
     },
     {
       "q": "How I can remove MailBar plugin for Mail.app?",
-      "a": "Open Utilities -> Terminal.app and run this command: <div class=\"clearfix\"></div> <div class=\"code-highlight-bkg col-lg-7\">rm -rf ~/Library/Mail/Bundles/MailBarPlugin.mailbundle</div>"
+      "a": "Open Utilities -> Terminal.app and run this command: <div class=\"clearfix\"></div> <div class=\"code-highlight-bkg col-lg-7 small\">rm -rf ~/Library/Mail/Bundles/MailBarPlugin.mailbundle</div>"
     }
   ]
 }

@@ -2,13 +2,14 @@
     each version in versions
         .version-item
            .row.version-item-title
-              .col-md-8
-                h4.
+              .col-md-8.col-sm-6.col-xs-6.padding-x-0
+                h5.
                  Version #{version.number}
-              .col-md-4
+              .col-md-4.col-sm-6.col-xs-6.padding-x-0
                 .pull-right
-                  h5.
-                    #{version.date}
+                  h5
+                    | #{version.date}
+                .clearfix
               .clearfix
            each feature in version.features
                .version-feature-item

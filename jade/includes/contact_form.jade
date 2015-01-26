@@ -1,0 +1,27 @@
+.contact-form-container
+
+    h4.
+      If you have any question, please contact us via emails or fill the form:
+
+    .clearfix
+
+    ul.contact-form-emails
+      li
+        a(href="mailto:contact@mailbarapp.com") contact@mailbarapp.com
+      li
+        a(href="mailto:support@mailbarapp.com") support@mailbarapp.com
+    .clearfix
+
+    .h3.contact-thanks-text.text-center.hidden
+      | We receive you message, thanks!
+
+    .clearfix
+
+    form#contact-form.contact-form
+        .form-group
+            input(type="email", placeholder="Enter email", required="").form-control.email-input
+        .form-group
+            textarea(rows=5, placeholder="Enter message", required="").form-control.text-input
+        button(type="submit").btn.btn-default.action-btn.action-dark-btn.pull-right Send message
+
+    .clearfix

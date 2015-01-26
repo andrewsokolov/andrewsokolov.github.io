@@ -1,0 +1,11 @@
+.reviews-container
+    each review, index in reviews
+        .review-item(class=index > 0 ? "hidden": "")
+           .row.review-item-body
+              .col-md-12
+                p.text-center
+                  | "#{review.body}"
+           .row.review-item-name
+              .col-md-12
+                h4.text-center
+                    | - #{review.name}

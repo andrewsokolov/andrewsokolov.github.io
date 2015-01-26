@@ -1,0 +1,108 @@
+{
+    "features":[
+      {
+        "id": "compose",
+        "title":"Compose message",
+        "desc":"Using MailBar you can compose new messages and reply or forward to you inbox."
+      },
+      {
+        "id": "filtering",
+        "title":"Filtering",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id": "fast_search",
+        "title":"Fast search",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id":"shortcuts",
+        "title":"Shortcuts",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id": "attachments",
+        "title":"Attachments",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id": "signatures",
+        "title":"Signatures",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id": "smartboxes",
+        "title":"Smartboxes",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id":"color_flag",
+        "title":"Color flags",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id":"calendar",
+        "title":"Calendar events",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id":"group_operations",
+        "title":"Group operations",
+        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+      },
+      {
+        "id":"sounds",
+        "title":"Sounds",
+        "desc":"You can easy configure unique sounds for every mailbox in MailBar"
+      },
+      {
+        "id":"retina",
+        "title":"Retina support",
+        "desc":"MailBar has full support of retina displays"
+      }
+    ],
+    "reviews":[
+      {
+        "name":"Bohemian Boomer",
+        "body":"MailBar, yet another way to help manage email on your Mac without even bothering to switch from what you're doing to check on Mail.",
+        "date": "24 December 2014",
+        "link":"link"
+      },
+      {
+        "name":"NoodleMac",
+        "body":"Finally, something good comes to Email. MailBar a more convenient, faster, easier way to dispose of the latest messages while you’re working from within another app on your Mac.",
+        "date": "12 December 2014",
+        "link":"link"
+      },
+      {
+        "name":"Tera Talks",
+        "body":"MailBar is a clever way to get you through the bulk of incoming email without having to switch to Mail or leave the app you’re using at the moment.",
+        "date": "5 December 2014",
+        "link":"link"
+      },
+      {
+        "name":"Mac360",
+        "body":"MailBar is lightweight, doesn't do much more than give you quick access to your email, just makes it easier to get to the messages that matter.",
+        "date": "24 October 2014",
+        "link":"link"
+      }
+    ],
+    "screenshots":[
+      {
+        "id":"screenshot-1",
+        "title":"Message list with filters in MailBar"
+      },
+      {
+        "id":"screenshot-2",
+        "title":"View message with MailBar"
+      },
+      {
+        "id":"screenshot-3",
+        "title":"Compose message with MailBar"
+      },
+      {
+        "id":"screenshot-4",
+        "title":"MailBar preferences"
+      }
+    ]
+}

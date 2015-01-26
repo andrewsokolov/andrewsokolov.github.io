@@ -1,0 +1,149 @@
+@green: #48BA39;
+@gray: #777777;
+@dark_gray: #333333;
+@blue: #3796FF;
+@top-light-border: lightgrey;
+
+@images_url: "../images";
+@svg_images_url: "../images/svg";
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body{
+  margin-bottom: 60px;
+}
+
+.header-logo img{
+  width: 60px;
+}
+
+.navbar-default .header-logo h3.navbar-text{
+  color: #FFFFFF;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.navbar-static-bottom{
+  margin-bottom: 0px;
+}
+
+.bkg-green{
+  background-color: @green;
+}
+
+.features-container{
+  padding: 50px 10px 20px 10px;
+}
+
+.features-container .feature-item{
+  margin-bottom: 30px;
+  padding-left: 40px;
+}
+
+.features-container .feature-item h4{
+  margin-top: 0;
+}
+
+.questions-container .question-item{
+  margin-bottom: 15px;
+}
+
+.versions-container .version-item{
+  margin-bottom: 15px;
+}
+
+.versions-container .version-item .version-item-title{
+  margin-bottom: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.buttons-top-contianer{
+  padding-top: 30px;
+}
+
+.buttons-bottom-contianer{
+  padding-top: 30px;
+}
+
+.logo-main-contianer{
+  padding-top: 50px;
+}
+
+.action-btn,
+.action-btn:focus{
+  width: 100%;
+  background-color: transparent;
+  border-color: lightgreen;
+  margin-bottom: 30px;
+  border-width: 2px;
+  padding: 12px 0px;
+  font-size: 1.1em;
+  font-weight: 400;
+}
+
+.action-btn.action-dark-btn,
+.action-btn.action-dark-btn:focus{
+  background-color: transparent;
+  border-color: @green;
+  color: @green;
+}
+
+.action-btn:hover{
+  background-color: transparent;
+  border-color: #FFFFFF;
+}
+
+.action-btn.action-dark-btn:hover{
+  background-color: @green;
+  border-color: @green;
+  color: #FFFFFF;
+}
+
+.main-title{
+  color: #FFFFFF;
+  font-size: 1.8em;
+}
+
+.main-title-name{
+  color: #ffffff;
+  font-family: "Helvetica Neue";
+  font-size: 3em;
+}
+
+.screenshot-bkg{
+  background-image: url('@{images_url}/screenshot_bkg.png');
+  background-repeat:  no-repeat;
+  background-size: 1602px 700px;
+  background-position: right bottom;
+  min-height: 750px;
+}
+
+.top-light-border{
+   border-top: 1px solid @top-light-border;
+}
+
+.header-sm{
+  padding: 5px 0;
+}
+
+.form-control{
+  font-size: 1.2em;
+}
+
+.form-control.email-input{
+  padding: 22px 12px;
+}
+
+@import "../node_modules/retina.js/src/retina";
+
+@import "includes/pages/index";
+@import "includes/pages/faq";
+@import "includes/footer";
+@import "includes/features";
+@import "includes/screenshots";
+@import "includes/contact_form";
+@import "includes/reviews";
+@import "includes/newsletter";

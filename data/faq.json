@@ -1,0 +1,32 @@
+{
+  "seo":{
+    "title_suffix": "| Frequently Asked Questions"
+  },
+  "questions":[
+    {
+      "q": "Why MailBar request access to contacts?",
+      "a": "MailBar need access to contacts for show you contacts picture in messages list. If you denied it, you always can enable it in OS X preferences."
+    },
+    {
+      "q": "Why MailBar request access to calendar?",
+      "a": "MailBar need access to calendar for show calendar event attached to message in signle message view. If you denied it, you always can enable it in OS X preferences."
+    },
+    {
+      "q": "How many times I can activate my licence?",
+      "a": "You can activate your licence 3 times and use MailBar on different devices."
+    },
+
+    {
+      "q": "Do I can use MailBar standalone without Mail.app?",
+      "a": "No. MailBar working only with Mail.app."
+    },
+    {
+      "q": "I update OS X to new version and get the message: </br> \"MailBarPlugin.mailbundle not compatible with new version of Mail.app\". </br> What I should do?",
+      "a": "Just restart MailBar.app. If it still not work - contact us."
+    },
+    {
+      "q": "How I can remove MailBar plugin for Mail.app?",
+      "a": "Open Utilities -> Terminal.app and run this command: <div class=\"clearfix\"></div> <div class=\"code-highlight-bkg col-lg-7\">rm -rf ~/Library/Mail/Bundles/MailBarPlugin.mailbundle</div>"
+    }
+  ]
+}

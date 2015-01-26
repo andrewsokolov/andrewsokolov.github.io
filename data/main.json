@@ -1,0 +1,13 @@
+{
+  "current_version":"1.1",
+  "min_os_version":"10.9+",
+  "download_url":"/update/versions/1.1/MailBar-1.1.dmg",
+  "favicon_url":"/favicon.ico",
+  "current_price": "$4.99",
+  "paddle_product_id": "495700",
+  "seo":{
+    "title":"MailBar | Best Mail.app friend. Get all you messages in menubar. Yosemite support.",
+    "description":"MailBar allow customize Mail.app icon unread badges up to 4 mailboxes, add to menubar unread status control panel and full message list with filtering.",
+    "keywords":"MailBar, MailBar.app, Mail.app, Mail plugins, Mac OS Plugins, Mac OS, Mac OS X, OS X, Plugins, Plugin, Menubar, 10.9, 10.10, Mavericks, Yosemite"
+  }
+}

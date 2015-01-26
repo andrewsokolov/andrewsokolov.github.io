@@ -3,62 +3,63 @@
       {
         "id": "compose",
         "title":"Compose message",
-        "desc":"Using MailBar you can compose new messages and reply or forward to you inbox."
+        "desc":"Using MailBar you can compose new messages, reply or forward to you inbox."
       },
       {
         "id": "filtering",
         "title":"Filtering",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+        "desc":"You can easily filter list of you emails by mailboxes and unread status."
       },
       {
         "id": "fast_search",
         "title":"Fast search",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
-      },
-      {
-        "id":"shortcuts",
-        "title":"Shortcuts",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
-      },
-      {
-        "id": "attachments",
-        "title":"Attachments",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
-      },
-      {
-        "id": "signatures",
-        "title":"Signatures",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+        "desc":"With MailBar you can fast search through bunch of you configured emails by all email data."
       },
       {
         "id": "smartboxes",
         "title":"Smartboxes",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+        "desc":"With MailBar you can use any of configured smartboxes and setup on mailbar not only inbox mailboxes."
       },
+      {
+        "id": "attachments",
+        "title":"Attachments",
+        "desc":"With MailBar you can preview any image attachments, download or open attached files with other formats."
+      },
+      {
+        "id": "signatures",
+        "title":"Signatures",
+        "desc":"MailBar automatically integrate all signatures for any accounts, that configured in Mail.app."
+      },
+      {
+        "id":"shortcuts",
+        "title":"Shortcuts",
+        "desc":"MailBar has configuraion of shortcuts for faster access to you emails."
+      },
+
       {
         "id":"color_flag",
         "title":"Color flags",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+        "desc":"MailBar has full support flagged messages. You can easily mark you important messages to one on 7 colors."
       },
       {
         "id":"calendar",
         "title":"Calendar events",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+        "desc":"You can see connected to message calendar events on MailBar single message view."
       },
       {
         "id":"group_operations",
         "title":"Group operations",
-        "desc":"MailBar has full support of gmail accounts, includes gmail aliases"
+        "desc":"With MailBar you can easily mark as read or junk full conversations."
       },
       {
         "id":"sounds",
         "title":"Sounds",
-        "desc":"You can easy configure unique sounds for every mailbox in MailBar"
+        "desc":"You can easily configure unique sounds for every mailbox in MailBar."
       },
       {
         "id":"retina",
         "title":"Retina support",
-        "desc":"MailBar has full support of retina displays"
+        "desc":"MailBar has full support of retina displays."
       }
     ],
     "reviews":[

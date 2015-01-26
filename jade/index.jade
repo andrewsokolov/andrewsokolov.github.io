@@ -3,10 +3,10 @@ extends ./includes/layout.jade
 block content
    .container-fluid.bkg-green
     .row
-      .col-md-7.col-sm-5.hidden-xs.screenshot-bkg(title="MacBook display")
+      #screenshot-md.col-md-7.hidden-sm.hidden-xs.screenshot-bkg(title="MacBook display")
           each screenshot, index in screenshots
             .screenshot-item(id=screenshot.id, title=screenshot.title, class=index > 0 ? "hidden": "")
-      .col-md-3.col-sm-5.col-sm-offset-1.col-xs-10.col-xs-offset-1
+      .col-md-3.col-sm-10.col-sm-offset-1.col-xs-10.col-xs-offset-1
         .row.logo-main-contianer
           .col-md-11.col-sm-12.col-xs-12
             #logo.center-block
@@ -18,6 +18,9 @@ block content
               | Manage you inbox from menubar.
             include ./includes/buttons_top.jade
             .clearfix
+      #screenshot-sm.hidden-lg.hidden-md.col-sm-11.hidden-xs.screenshot-bkg(title="MacBook display")
+          each screenshot, index in screenshots
+              .screenshot-item(id=screenshot.id, title=screenshot.title, class=index > 0 ? "hidden" : "")
 
    .container-fluid
       .row

@@ -13,11 +13,17 @@ $ () ->
      fade_in: 1000
      fade_out: 1000
 
- $ '.screenshot-item'
+ $ '#screenshot-sm .screenshot-item'
    .gallery
      timeout: 8000
      fade_in: 600
      fade_out: 600
+
+ $ '#screenshot-md .screenshot-item'
+  .gallery
+      timeout: 8000
+      fade_in: 600
+      fade_out: 600
 
  $ '#buy-btn, #buy-bottom-btn'
     .on 'click', ->

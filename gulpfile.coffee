@@ -22,7 +22,7 @@ gulp.task 'jade', ->
     )
     .pipe jade()
     .pipe(plumber.stop())
-    .pipe gulp.dest './templates/'
+    .pipe gulp.dest './'
 
 gulp.task 'less', ->
   gulp.src './less/*.less'
@@ -32,7 +32,7 @@ gulp.task 'less', ->
     })
     .pipe minify()
     .pipe(plumber.stop())
-    .pipe gulp.dest './less/'
+    .pipe gulp.dest './public/'
 
 gulp.task 'coffee', ->
   gulp.src './coffee/*.coffee'
@@ -40,7 +40,7 @@ gulp.task 'coffee', ->
     .pipe coffee({ bare: true })
     .pipe uglify()
     .pipe(plumber.stop())
-    .pipe gulp.dest './coffee/'
+    .pipe gulp.dest './public/'
 
 gulp.task 'jade-watch', ->
 

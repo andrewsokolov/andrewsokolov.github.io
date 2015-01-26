@@ -18,6 +18,7 @@ gulp.task 'jade', ->
       mainJsonPath = './data/main.json'
       jsonPath = './data/' + path.basename(file.path, '.jade') + '.json'
       delete require.cache[require.resolve(jsonPath)]
+      delete require.cache[require.resolve(mainJsonPath)]
       lodash.merge(require(jsonPath), require(mainJsonPath))
     )
     .pipe jade()

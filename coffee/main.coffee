@@ -8,7 +8,7 @@ GOOGLE_FORM_INPUT_CONTACT_TEXT = "entry.1844475962";
 $ () ->
 
  $ '.start-animation'
-    .addClass 'animated bounceInUp'
+    .addClass 'animated bounceInDown'
 
  $ '.review-item'
    .gallery

@@ -7,6 +7,9 @@ GOOGLE_FORM_INPUT_CONTACT_TEXT = "entry.1844475962";
 
 $ () ->
 
+ $ '.start-animation'
+    .addClass 'animated bounceInUp'
+
  $ '.review-item'
    .gallery
      timeout: 8000

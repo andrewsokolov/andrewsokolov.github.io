@@ -64,6 +64,12 @@
     ],
     "reviews":[
       {
+        "name":" George Popescu, Softpedia",
+        "body":"MailBar is lightweight, user-friendly and unobtrusive utility that makes it easy for your to check and manage your emails with just a couple of mouse clicks",
+        "date": "07 January 2015",
+        "link":"link"
+      },
+      {
         "name":"Bohemian Boomer",
         "body":"MailBar, yet another way to help manage email on your Mac without even bothering to switch from what you're doing to check on Mail.",
         "date": "24 December 2014",

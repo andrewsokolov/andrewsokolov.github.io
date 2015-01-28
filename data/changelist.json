@@ -4,6 +4,17 @@
   },
   "versions":[
     {
+      "number":"1.1.1",
+      "date":"28 January 2015",
+      "features": [
+        "Add more info tooltips to buttons.",
+        "Update MailBar icon."
+      ],
+      "bugs": [
+        "Some minor bugfix."
+      ]
+    },
+    {
       "number":"1.1",
       "date":"13 January 2015",
       "features": [

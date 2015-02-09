@@ -4,6 +4,16 @@
   },
   "versions":[
     {
+      "number":"1.1.2",
+      "date":"9 February 2015",
+      "features": [
+        "Some user interface improvements.",
+        "Additional localizations."
+      ],
+      "bugs": [
+      ]
+    },
+    {
       "number":"1.1.1",
       "date":"28 January 2015",
       "features": [

@@ -4,6 +4,10 @@
   },
   "questions":[
     {
+      "q": "Can I use MailBar with Mac OS X 10.8?",
+      "a": "No. MailBar works only with Mac OS X 10.9 or higher."
+    },
+    {
       "q": "Why MailBar request access to contacts?",
       "a": "MailBar need access to contacts for show you contacts picture in messages list. If you denied it, you always can enable it in OS X preferences."
     },

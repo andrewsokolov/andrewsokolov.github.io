@@ -4,12 +4,13 @@
   },
   "versions":[
     {
-      "number":"1.1.3",
-      "date":"10 February 2015",
+      "number":"1.1.5",
+      "date":"20 February 2015",
       "features": [
       ],
       "bugs": [
-        "Fix license activation process"
+        "Fix license activation process",
+        "Minor bugfix"
       ]
     },
     {

@@ -6,6 +6,16 @@
 <language>en</language>
 
 <item>
+    <title>Version 1.1.6</title>
+    <description>
+        New features
+    </description>
+    <pubDate>Sun, 15 March 2015 12:20:11 +0000</pubDate>
+    <sparkle:releaseNotesLink>http://mailbarapp.com/update/versions/1.1.6/notes.html</sparkle:releaseNotesLink>
+    <enclosure url="http://mailbarapp.com/update/versions/1.1.6/MailBar-1.1.6.zip" sparkle:version="1.1.6" sparkle:shortVersionString="1.1.6" length="1600000" type="application/octet-stream" sparkle:dsaSignature="MCwCFBVan8/4xuvAOltGEg64Sd16RvDFAhQwItEbSFzu3aUq4q8a1sEcqEIfkg=="/>
+</item>
+
+<item>
     <title>Version 1.1.5</title>
     <description>
         New features

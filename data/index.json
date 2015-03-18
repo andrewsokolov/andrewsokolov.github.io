@@ -2,59 +2,59 @@
     "features":[
       {
         "id": "compose",
-        "title":"Compose message",
-        "desc":"Using MailBar you can compose new messages, reply or forward to you inbox."
+        "title":"Compose messages",
+        "desc":"Using MailBar you can compose new messages, reply or forward to your inbox."
       },
       {
         "id": "filtering",
         "title":"Filtering",
-        "desc":"You can easily filter list of you emails by mailboxes and unread status."
+        "desc":"You can easily filter the list of your emails by mailboxes and/or unread status."
       },
       {
         "id": "fast_search",
         "title":"Fast search",
-        "desc":"With MailBar you can fast search through bunch of you configured emails by all email data."
+        "desc":"With MailBar you can search fast through the bunch of your configured emails by any email data."
       },
       {
         "id": "smartboxes",
         "title":"Smartboxes",
-        "desc":"With MailBar you can use any of configured smartboxes and setup on mailbar not only inbox mailboxes."
+        "desc":"With MailBar you can use any of the configured smartboxes and setup on MailBar not only inbox mailboxes."
       },
       {
         "id": "attachments",
         "title":"Attachments",
-        "desc":"With MailBar you can preview any image attachments, download or open attached files with other formats."
+        "desc":"With MailBar you can preview all image attachments, download and/or open attached files with other formats."
       },
       {
         "id": "signatures",
         "title":"Signatures",
-        "desc":"MailBar automatically integrate all signatures for any accounts, that configured in Mail.app."
+        "desc":"MailBar automatically integrates all your signatures from your accounts, which configured in your Mail.app."
       },
       {
         "id":"shortcuts",
         "title":"Shortcuts",
-        "desc":"MailBar has configuraion of shortcuts for faster access to you emails."
+        "desc":"MailBar has an option of configuring the shortcuts for the faster access to your emails."
       },
 
       {
         "id":"color_flag",
         "title":"Colored flags",
-        "desc":"MailBar has full support of colored flags. You can easily mark you important messages to one of 7 colors."
+        "desc":"MailBar has full support of colored flags. You can easily mark your important messages into one out of seven colors."
       },
       {
         "id":"calendar",
         "title":"Calendar events",
-        "desc":"You can see connected to message calendar events on MailBar single message view."
+        "desc":"You can see connected to the message calendar events on MailBar single message view."
       },
       {
         "id":"group_operations",
         "title":"Group operations",
-        "desc":"With MailBar you can easily mark as read or junk full conversations."
+        "desc":"With MailBar you can easily mark as read and/or junk full conversations."
       },
       {
         "id":"sounds",
         "title":"Sounds",
-        "desc":"You can easily configure unique sounds for every mailbox in MailBar."
+        "desc":"You can easily configure unique sounds for every mailbox inside MailBar."
       },
       {
         "id":"retina",

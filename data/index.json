@@ -64,33 +64,33 @@
     ],
     "reviews":[
       {
-        "name":" George Popescu, Softpedia",
-        "body":"MailBar is lightweight, user-friendly and unobtrusive utility that makes it easy for your to check and manage your emails with just a couple of mouse clicks",
-        "date": "07 January 2015",
+        "name":"George Popescu, Softpedia",
+        "body":"MailBar is a lightweight, user-friendly and unobtrusive utility that makes it easy for you to check and manage your emails with just a couple of mouse clicks",
+        "date": "July 8th, 2014",
         "link":"link"
       },
       {
-        "name":"Bohemian Boomer",
+        "name":"Jeffrey Mincey, Bohemian Boomer",
         "body":"MailBar, yet another way to help manage email on your Mac without even bothering to switch from what you're doing to check on Mail.",
-        "date": "24 December 2014",
+        "date": "December 24th, 2014",
         "link":"link"
       },
       {
-        "name":"NoodleMac",
+        "name":"Ron McElfresh, NoodleMac",
         "body":"Finally, something good comes to Email. MailBar a more convenient, faster, easier way to dispose of the latest messages while you’re working from within another app on your Mac.",
-        "date": "12 December 2014",
+        "date": "December 12th, 2014",
         "link":"link"
       },
       {
-        "name":"Tera Talks",
+        "name":"Tera Thomas O'Brien, Tera Talks",
         "body":"MailBar is a clever way to get you through the bulk of incoming email without having to switch to Mail or leave the app you’re using at the moment.",
-        "date": "5 December 2014",
+        "date": "December 5th, 2014",
         "link":"link"
       },
       {
-        "name":"Mac360",
-        "body":"MailBar is lightweight, doesn't do much more than give you quick access to your email, just makes it easier to get to the messages that matter.",
-        "date": "24 October 2014",
+        "name":"Natalia Nowak, Mac360",
+        "body":"MailBar is lightweight, doesn't do much more than give you quick access to your email. MailBar just makes it easier to get to the messages that matter.",
+        "date": "October 22nd, 2014",
         "link":"link"
       }
     ],

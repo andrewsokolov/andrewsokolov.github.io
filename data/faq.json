@@ -8,28 +8,27 @@
       "a": "No. MailBar works only with Mac OS X 10.9 or higher."
     },
     {
-      "q": "Why MailBar request access to contacts?",
-      "a": "MailBar need access to contacts for show you contacts picture in messages list. If you denied it, you always can enable it in OS X preferences."
+      "q": "Why does MailBar request access to contacts?",
+      "a": "MailBar needs access to your contacts in order to show you pictures of the contacts in the list of messages. In case you deny access, you can always enable it in OS X preferences."
     },
     {
-      "q": "Why MailBar request access to calendar?",
-      "a": "MailBar need access to calendar for show calendar event attached to message in signle message view. If you denied it, you always can enable it in OS X preferences."
+      "q": "Why does MailBar request access to calendar?",
+      "a": "MailBar needs access to calendar in order to show you a calendar event attached to a message in a “single message view”. In case you deny access, you can always enable it in OS X preferences."
     },
     {
-      "q": "How many times I can activate my licence?",
-      "a": "You can activate your licence 3 times and use MailBar on different devices."
-    },
-
-    {
-      "q": "Do I can use MailBar standalone without Mail.app?",
-      "a": "No. MailBar working only with Mail.app."
+      "q": "How many times can I activate my MailBar license?",
+      "a": "You can activate your license up to 3 times and use MailBar on up to 3 different devices."
     },
     {
-      "q": "I update OS X to new version and get the message: </br> \"MailBarPlugin.mailbundle not compatible with new version of Mail.app\". </br> What I should do?",
-      "a": "Just restart MailBar.app. If it still not work - contact us."
+      "q": "Can I use MailBar standalone without Mail.app?",
+      "a": "No. MailBar works only in addition to Mail.app."
     },
     {
-      "q": "How I can remove MailBar plugin for Mail.app?",
+      "q": "When I update my OS X to a new version I get the following message:  \"MailBarPlugin.mailbundle not compatible with new version of Mail.app\".  What shall I do?",
+      "a": "Just restart MailBar.app. If it still does not work please contact us."
+    },
+    {
+      "q": "How can I remove MailBar plugin for Mail.app?",
       "a": "Open Utilities -> Terminal.app and run this command: <div class=\"clearfix\"></div> <div class=\"code-highlight-bkg col-lg-7 small\">rm -rf ~/Library/Mail/Bundles/MailBarPlugin.mailbundle</div>"
     }
   ]

@@ -4,12 +4,21 @@
   },
   "versions":[
     {
+      "number":"1.1.7",
+      "date":"March 21st, 2015",
+      "features": [
+        "Added message font synchronization between MailBar and Mail.app."
+      ],
+      "bugs": [
+      ]
+    },
+    {
       "number":"1.1.6",
       "date":"March 15th, 2015",
       "features": [
       ],
       "bugs": [
-        "Fixed problem with not visible messages Gmail accounts, which have the same sender and recipient."
+        "Fixed problem with not visible messages in Gmail accounts, which have the same sender and recipient."
       ]
     },
     {
@@ -19,7 +28,7 @@
       ],
       "bugs": [
         "Fixed license activation process.",
-        "Minor bugfixes."
+        "Minor bug fixes."
       ]
     },
     {
@@ -40,7 +49,7 @@
         "Updated MailBar icon."
       ],
       "bugs": [
-        "Some minor bugfixes."
+        "Some minor bug fixes."
       ]
     },
     {
@@ -88,7 +97,7 @@
         "Added to preferences the option to enable/disable Mail.app dock icon customization."
       ],
       "bugs": [
-        "Fixed bug with MailBar popover disappearing after focus changes to other app, even when mouse is over popover."
+        "Fixed bug with MailBar popover disappears after focus changes to other app, even when mouse is over popover."
       ]
     },
     {
@@ -115,7 +124,7 @@
         "Fixed issue with some messages which were not displayed in the list of messages in case they were received at same time with the update while loading the full list of messages.",
         "Fixed “open message” in Mail.app feature in Yosemite (10.10).",
         "Fixed click interface through status notification views.",
-        "Fixed attachments special char display at a message snippet in the list of messages.",
+        "Fixed the way attachments were displayed in list of messages.",
         "Fixed focus search field on every MailBar popover open.",
         "Fixed adding to the “reply message” mode full html content, now only body content.",
         "Fixed swipe usage over recipients’ views."

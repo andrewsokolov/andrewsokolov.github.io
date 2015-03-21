@@ -3,7 +3,7 @@
       {
         "id": "compose",
         "title":"Compose messages",
-        "desc":"Using MailBar you can compose new messages, reply or forward to your inbox."
+        "desc":"Using MailBar you can compose new messages, reply or forward to your Inbox."
       },
       {
         "id": "filtering",
@@ -13,12 +13,12 @@
       {
         "id": "fast_search",
         "title":"Fast search",
-        "desc":"With MailBar you can search fast through the bunch of your configured emails by any email data."
+        "desc":"With MailBar you can fast search through your configured email accounts using any email data."
       },
       {
         "id": "smartboxes",
         "title":"Smartboxes",
-        "desc":"With MailBar you can use any of the configured smartboxes and setup on MailBar not only inbox mailboxes."
+        "desc":"With MailBar you can use any of the configured smartboxes and setup on MailBar not only Inbox mailboxes but also Sent messages, Junk, Archive, Trash, etc."
       },
       {
         "id": "attachments",
@@ -28,7 +28,7 @@
       {
         "id": "signatures",
         "title":"Signatures",
-        "desc":"MailBar automatically integrates all your signatures from your accounts, which configured in your Mail.app."
+        "desc":"MailBar automatically integrates all your signatures from your accounts, which are configured in your Mail.app."
       },
       {
         "id":"shortcuts",
@@ -39,7 +39,7 @@
       {
         "id":"color_flag",
         "title":"Colored flags",
-        "desc":"MailBar has full support of colored flags. You can easily mark your important messages into one out of seven colors."
+        "desc":"MailBar has full support of colored flags. You can easily mark your important messages into to one of seven colors."
       },
       {
         "id":"calendar",

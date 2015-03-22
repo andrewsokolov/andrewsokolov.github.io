@@ -1,5 +1,5 @@
 {
-  "assets_version":"3",
+  "assets_version":"4",
   "current_version":"1.1.6",
   "min_os_version":"10.9+",
   "download_url":"/update/versions/1.1.6/MailBar-1.1.6.dmg",
@@ -7,7 +7,7 @@
   "current_price": "$4.99",
   "paddle_product_id": "495700",
   "seo":{
-    "title":"MailBar for Mac | The best Mail.app friend. Manage your inbox from the menu bar.",
+    "title":"MailBar for Mac | The best Mail.app friend. Manage your Inbox from the menu bar.",
     "description":"MailBar is a practical Mac OS X application that enables you to check your inbox and manage your emails directly from your Mac’s status bar.",
     "keywords":"MailBar, mail bar, mailbar mac, mail menu bar, best mail app for yosemite, mail unread menu yosemite, best email app for yosemite, menu bar yosemite, MailBar.app, Mail.app, Mail plugins, Mac OS Plugins, Mac OS, Mac OS X, OS X, Plugins, Plugin, Menu bar, 10.9, 10.10, Mavericks, Yosemite"
   }

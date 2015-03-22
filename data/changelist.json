@@ -120,7 +120,7 @@
         "Added an option to change color flag for a specific message."
       ],
       "bugs": [
-        "Fixed issue which was faced when Mail.app was offline and new plugin has been installed, MailBar shows the “restart button” and not the “open button”",
+        "Fixed issue which was faced when Mail.app was offline and new plugin has been installed, MailBar shows the “restart button” and not the “open button”.",
         "Fixed issue with some messages which were not displayed in the list of messages in case they were received at same time with the update while loading the full list of messages.",
         "Fixed “open message” in Mail.app feature in Yosemite (10.10).",
         "Fixed click interface through status notification views.",
@@ -136,7 +136,7 @@
       "features": [
         "Added new icons to the preference tabs.",
         "Fixed poor text rendering inside the mode “messages”.",
-        "Small style fixes"
+        "Small style fixes."
       ],
       "bugs": []
     },

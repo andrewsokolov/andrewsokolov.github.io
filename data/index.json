@@ -3,7 +3,7 @@
       {
         "id": "compose",
         "title":"Compose messages",
-        "desc":"Using MailBar you can compose new messages, reply or forward to your Inbox."
+        "desc":"You can compose new messages, reply to emails or forward them from within MailBar in your menu bar."
       },
       {
         "id": "filtering",

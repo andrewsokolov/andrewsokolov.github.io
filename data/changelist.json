@@ -97,7 +97,7 @@
         "Added to preferences the option to enable/disable Mail.app dock icon customization."
       ],
       "bugs": [
-        "Fixed bug with MailBar popover disappears after focus changes to other app, even when mouse is over popover."
+        "Fixed bug with MailBar popover disappears after focus changes to another app, even when mouse is over popover."
       ]
     },
     {

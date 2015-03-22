@@ -106,7 +106,7 @@
       "features": [
         "Added support of signatures which are configured in Mail.app.",
         "Added ability to send emails from Gmail aliases.",
-        "Added to preferences the option to show/hide messages count in the menubar."
+        "Added to preferences the option to show/hide messages count in the menu bar."
       ],
       "bugs": [
         "Fixed duplicates in the list of messages after replying or forwarding in some cases."

@@ -4,6 +4,18 @@
   },
   "versions":[
     {
+      "number":"1.1.8",
+      "date":"April 27th, 2015",
+      "features": [
+        "Fixed MailBar look with Dark Mode appearance."
+      ],
+      "bugs": [
+        "Fixed small vertical line in menu bar icon, that dislayed on Retina screens.",
+        "Fixed quality of some icons on Retina screens.",
+        "Minor bug fixes."
+      ]
+    },
+    {
       "number":"1.1.7",
       "date":"March 23rd, 2015",
       "features": [

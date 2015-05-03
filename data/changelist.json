@@ -4,6 +4,16 @@
   },
   "versions":[
     {
+      "number":"1.1.9",
+      "date":"May 3rd, 2015",
+      "features": [
+        "Added “Appearance” panel to MailBar preferences."
+      ],
+      "bugs": [
+        "Fixed MailBar freeze on multiple monitors OS X setup."
+      ]
+    },
+    {
       "number":"1.1.8",
       "date":"April 27th, 2015",
       "features": [

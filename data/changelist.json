@@ -4,6 +4,15 @@
   },
   "versions":[
     {
+      "number":"1.2.0",
+      "date":"May 8th, 2015",
+      "features": [],
+      "bugs": [
+        "Fixed bug when duplicated recipients were added on `reply to all` action.",
+        "Fixed bug with displaying too long recipients names."
+      ]
+    },
+    {
       "number":"1.1.9",
       "date":"May 3rd, 2015",
       "features": [

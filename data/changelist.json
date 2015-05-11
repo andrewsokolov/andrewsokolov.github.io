@@ -4,6 +4,15 @@
   },
   "versions":[
     {
+      "number":"1.2.1",
+      "date":"May 11th, 2015",
+      "features": [],
+      "bugs": [
+        "Fixed bug when MailBar displayed incorrect calendar event info.",
+        "Fixed few minor bugs with MailBar plugin."
+      ]
+    },
+    {
       "number":"1.2.0",
       "date":"May 8th, 2015",
       "features": [],

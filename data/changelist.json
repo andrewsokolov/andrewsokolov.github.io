@@ -2,7 +2,16 @@
   "seo":{
     "title_suffix": "| Changelist"
   },
-  "versions":[
+  "versions": [
+    {
+      "number":"1.2.2",
+      "date":"May 13th, 2015",
+      "features": [
+        "Improved dock icon and menu bar styles."
+      ],
+      "bugs": [
+      ]
+    },
     {
       "number":"1.2.1",
       "date":"May 11th, 2015",

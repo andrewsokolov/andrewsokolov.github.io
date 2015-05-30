@@ -4,6 +4,19 @@
   },
   "versions": [
     {
+      "number":"1.2.4",
+      "date":"May 30th, 2015",
+      "features": [
+        "Added “Restart MailBar” button to menu.",
+        "Added ability turn off analytics that sent to MailBar team at the preferences.",
+        "Now after adding, editing or deleting “smart mailbox”, changes appear at MailBar immediately."
+      ],
+      "bugs": [
+        "Fixed bug with adding new recepients on TAB key press.",
+        "Fixed minor bugs on MailBar plugin."
+      ]
+    },
+    {
       "number":"1.2.3",
       "date":"May 15th, 2015",
       "features": [

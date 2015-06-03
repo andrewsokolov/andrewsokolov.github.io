@@ -4,6 +4,16 @@
   },
   "versions": [
     {
+      "number":"1.2.5",
+      "date":"June 3rd, 2015",
+      "features": [
+      ],
+      "bugs": [
+        "Fixed bug with highlighting urls that contain “@” character.",
+        "Fixed preferences layout bug."
+      ]
+    },
+    {
       "number":"1.2.4",
       "date":"May 30th, 2015",
       "features": [

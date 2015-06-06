@@ -4,6 +4,15 @@
   },
   "versions": [
     {
+      "number":"1.2.6",
+      "date":"June 6th, 2015",
+      "features": [
+      ],
+      "bugs": [
+        "Prevented ping calls to analytics systems on MailBar launch when analytics disabled."
+      ]
+    },
+    {
       "number":"1.2.5",
       "date":"June 3rd, 2015",
       "features": [

@@ -4,6 +4,17 @@
   },
   "versions": [
     {
+      "number":"1.2.7",
+      "date":"June 8th, 2015",
+      "features": [
+        "Added support for “smart mailbox folders”.",
+        "Added ability to control point size in the dock icon.",
+        "Added ability to show unread count separately in the menu bar."
+      ],
+      "bugs": [
+      ]
+    },
+    {
       "number":"1.2.6",
       "date":"June 6th, 2015",
       "features": [

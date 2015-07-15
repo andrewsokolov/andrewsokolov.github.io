@@ -5,11 +5,20 @@
   "versions": [
     {
       "number":"1.2.8",
+      "date":"July 15th, 2015",
+      "features": [
+        "Updated empty state in the menu bar when all messages marked as read."
+      ],
+      "bugs": [
+      ]
+    },
+    {
+      "number":"1.2.8",
       "date":"June 23rd, 2015",
       "features": [
        ],
       "bugs": [
-        "Fixed bug with font in menu bar on some displays."
+        "Fixed bug with font in the menu bar on some displays."
       ]
     },
     {

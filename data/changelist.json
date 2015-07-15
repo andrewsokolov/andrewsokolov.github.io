@@ -4,7 +4,7 @@
   },
   "versions": [
     {
-      "number":"1.2.8",
+      "number":"1.2.9",
       "date":"July 15th, 2015",
       "features": [
         "Updated empty state in the menu bar when all messages marked as read."

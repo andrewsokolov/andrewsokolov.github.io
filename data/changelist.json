@@ -4,6 +4,17 @@
   },
   "versions": [
     {
+      "number":"1.3.0",
+      "date":"July 27th, 2015",
+      "features": [
+        "Updated styles for empty messages list state and loading screen.",
+        "After wake up from sleep messages list is not blocked."
+      ],
+      "bugs": [
+        "Fixed minor bugs."
+      ]
+    },
+    {
       "number":"1.2.9",
       "date":"July 15th, 2015",
       "features": [

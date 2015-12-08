@@ -4,6 +4,10 @@
   },
   "questions":[
     {
+      "q": "I didn't see compose, reply or forward buttons in MailBar?",
+      "a": "Unfortunately this feature is blocked by Apple in Mac OS X 10.11 (works in previous versions), we will continue exploring how to fix it."
+    },
+    {
       "q": "Can I use MailBar with Mac OS X 10.8?",
       "a": "No. MailBar works only with Mac OS X 10.9 or higher."
     },
